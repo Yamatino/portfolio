@@ -102,7 +102,7 @@ export function Contact() {
           className="mt-20 pt-8 border-t border-white/10"
         >
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Lucas Mato. Built with Next.js & Tailwind CSS.
+            © {new Date().getFullYear()} Lucas Amato. Built with Next.js & Tailwind CSS.
           </p>
         </motion.div>
       </motion.div>

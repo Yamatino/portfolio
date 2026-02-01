@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lucas Mato | Full Stack Developer",
-  description: "Portfolio of Lucas Mato - Full Stack Developer and Computer Science Student at UTN. Building modern web applications with React, TypeScript, and Firebase.",
-  keywords: ["Lucas Mato", "Full Stack Developer", "React", "TypeScript", "Firebase", "Web Development"],
-  authors: [{ name: "Lucas Mato" }],
+  title: "Lucas Amato | Full Stack Developer",
+  description: "Portfolio of Lucas Amato - Full Stack Developer and Computer Science Student at UTN. Building modern web applications with React, TypeScript, and Firebase.",
+  keywords: ["Lucas Amato", "Full Stack Developer", "React", "TypeScript", "Firebase", "Web Development"],
+  authors: [{ name: "Lucas Amato" }],
   openGraph: {
-    title: "Lucas Mato | Full Stack Developer",
-    description: "Portfolio of Lucas Mato - Full Stack Developer and Computer Science Student",
+    title: "Lucas Amato | Full Stack Developer",
+    description: "Portfolio of Lucas Amato - Full Stack Developer and Computer Science Student",
     type: "website",
   },
 };

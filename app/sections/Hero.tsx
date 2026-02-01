@@ -31,7 +31,7 @@ export function Hero() {
           transition={{ delay: 0.3, duration: 0.6 }}
           className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 tracking-tight"
         >
-          <span className="text-gradient">Lucas Mato</span>
+          <span className="text-gradient">Lucas Amato</span>
         </motion.h1>
 
         {/* Role */}
