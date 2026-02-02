@@ -16,6 +16,15 @@ const projects = [
     topics: ["react", "firebase", "gaming", "real-time"],
   },
   {
+    name: "Gastitos",
+    description: "A personal expense tracking application to manage daily spending and budget.",
+    language: "JavaScript",
+    stars: 0,
+    homepage: undefined,
+    html_url: "https://github.com/Yamatino/Gastitos",
+    topics: ["expense-tracker", "finance"],
+  },
+  {
     name: "Tazita",
     description: "A coffee tracker app built for my girlfriend to track each coffee she takes throughout the day.",
     language: "JavaScript",
