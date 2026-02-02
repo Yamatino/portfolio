@@ -95,7 +95,7 @@ export function ProjectCard({
                 onClick={() => window.open(homepage, "_blank")}
               >
                 <ExternalLink className="w-4 h-4 mr-2" />
-                Live Demo
+                Go to Site
               </Button>
             )}
             <Button
