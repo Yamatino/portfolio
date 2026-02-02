@@ -4,7 +4,7 @@ import { SectionWrapper } from "../components/SectionWrapper";
 import { ProjectCard } from "../components/ProjectCard";
 import { motion } from "framer-motion";
 
-// Only TarkovTracker and Gastitos as requested
+// Featured projects
 const projects = [
   {
     name: "TarkovTracker",
@@ -16,13 +16,13 @@ const projects = [
     topics: ["react", "firebase", "gaming", "real-time"],
   },
   {
-    name: "Gastitos",
-    description: "A personal expense tracking application. TODO: Add your description here.",
+    name: "Tazita",
+    description: "A coffee tracker app built for my girlfriend to track each coffee she takes throughout the day.",
     language: "JavaScript",
     stars: 0,
     homepage: undefined,
-    html_url: "https://github.com/Yamatino/Gastitos",
-    topics: ["expense-tracker", "finance"],
+    html_url: "https://github.com/Yamatino/Tazita",
+    topics: ["coffee", "tracker", "personal"],
   },
 ];
 
